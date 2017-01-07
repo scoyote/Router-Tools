@@ -19,7 +19,7 @@
 '24:f0:94:35:1a:f0': 'Joyes iPhone',
 '10:ae:60:3d:3d:cd': 'Patricks Kindle',
 'a8:47:4a:f1:a1:bf': 'PS4 Wlan',
-'bc:60:4a:f1:a1:bf': 'PS4 Eth',
+'bc:60:a7:d4:b6:aa': 'PS4 Eth',
 'b8:27:eb:01:ed:d4': 'Raspberry Pi 2',
 'b8:27:eb:b2:79:a1': 'RPi 1 ETH',
 '98:fc:11:c5:d4:7a': 'RPi 1 Wlan',
@@ -31,5 +31,8 @@
 '34:02:86:19:91:5a': 'SAS Laptop L7A517 Wlan',
 '88:cb:87:8c:75:01': 'Sophia iPad',
 '00:1f:e1:3e:09:8b': 'Vonage',
-'00:1e:52:c6:39:47': 'White MacBook'
+'00:1e:52:c6:39:47': 'White MacBook',
+'10:1c:0c:21:dd:89': 'Chancy iPad',
+'fc:c2:de:91:ce:fe': 'Chancy phone',
+'00:0d:4b:bf:73:e1': 'Roku'
 };
