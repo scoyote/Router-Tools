@@ -1,0 +1,1 @@
+This repositiory contains tools that I am using to extract detailed MAC level information on my local network. I am using bwmon running on a dd-wrt powered router to generate the proper counters, then the attached python programs to analyze the output.
