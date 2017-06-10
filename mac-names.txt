@@ -20,7 +20,6 @@
 '10:ae:60:3d:3d:cd': 'Patricks Kindle',
 'a8:47:4a:f1:a1:bf': 'PS4 Wlan',
 'bc:60:a7:d4:b6:aa': 'PS4 Eth',
-'b8:27:eb:01:ed:d4': 'Raspberry Pi 2',
 'b8:27:eb:b2:79:a1': 'RPi 1 ETH',
 '98:fc:11:c5:d4:7a': 'RPi 1 Wlan',
 '24:f0:94:21:03:e1': 'Samuels iPhone',
@@ -34,5 +33,10 @@
 '00:1e:52:c6:39:47': 'White MacBook',
 '10:1c:0c:21:dd:89': 'Chancy iPad',
 'fc:c2:de:91:ce:fe': 'Chancy phone',
-'00:0d:4b:bf:73:e1': 'Roku'
+'00:0d:4b:bf:73:e1': 'Roku’,
+'6c:0b:84:bc:d1:85': 'Nordictrac',    
+'b8:27:eb:f5:59:af': 'Jordan',        
+'b8:27:eb:27:05:59': 'Mitch',                 
+'b8:27:eb:cf:4e:b8': 'Chris',                 
+'b8:27:eb:01:ed:d4': 'Lazlo'
 };
