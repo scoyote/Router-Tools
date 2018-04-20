@@ -15,7 +15,7 @@
 '38:63:bb:74:70:d7': 'HP - SAS Wlan',
 '38:c9:86:15:50:fa': 'iMac ETH',
 '28:f0:76:11:67:98': 'iMac',
-'5c:f5:da:b0:54:ed': 'Joyes iPad',
+'5C:F5:DA:B0:54:ED': 'Joyes iPad',
 '24:f0:94:35:1a:f0': 'Joyes iPhone',
 '10:ae:60:3d:3d:cd': 'Patricks Kindle',
 'a8:47:4a:f1:a1:bf': 'PS4 Wlan',
@@ -34,9 +34,15 @@
 '10:1c:0c:21:dd:89': 'Chancy iPad',
 'fc:c2:de:91:ce:fe': 'Chancy phone',
 '00:0d:4b:bf:73:e1': 'Roku’,
-'6c:0b:84:bc:d1:85': 'Nordictrac',    
-'b8:27:eb:f5:59:af': 'Jordan',        
-'b8:27:eb:27:05:59': 'Mitch',                 
-'b8:27:eb:cf:4e:b8': 'Chris',                 
-'b8:27:eb:01:ed:d4': 'Lazlo'
+'6c:0b:84:bc:d1:85': 'Nordictrac',
+'b8:27:eb:f5:59:af': 'Jordan',
+'b8:27:eb:27:05:59': 'Mitch',
+'b8:27:eb:cf:4e:b8': 'Chris',
+'b8:27:eb:01:ed:d4': 'Lazlo',
+'8c:9f:3b:cc:a4:64': 'SharpTV',
+'A8:82:00:64:1D:0F': 'SharpTVETH',
+'C8:3A:6B:34:C1:2F': 'RokuExpress',
+'A4:34:D9:CD:0B:54': 'SAS Laptop L10D778 Wlan',
+'BC:60:A7:D4:B6:AA': 'PS4Eth'
+
 };
