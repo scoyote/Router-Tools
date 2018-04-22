@@ -1,4 +1,6 @@
-This repositiory contains tools that I am using to extract detailed MAC level information on my local network. I am using bwmon running on a dd-wrt powered router to generate the proper counters, then the attached python programs to analyze the output. 
+This repositiory contains tools that I am using to extract detailed MAC level information on my local network. I am using bwmon running on a dd-wrt powered router to generate the proper counters, then the attached python programs to analyze the output.
+
+![MonthlyLegacy](https://github.com/scoyote/Router-Tools/blob/master/legacyVScurrent.png?raw=true)
 
 My router does not have enough memory to run python locally effectiely, so until I upgrade I am stuck having to run this remote. A good TODO would be to upgrade the router, then have this run at 5AM to send an update email to whom it may concern.
 
