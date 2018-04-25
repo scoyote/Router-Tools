@@ -5,9 +5,9 @@
  */
 
  var MAC_NAMES = {
-'10:ae:60:35:74:d4': 'Amelias Kindle',
-'70:56:81:dd:c2:09': 'Apple TV',
-'30:63:6b:2e:65:b6': 'Apple Watch',
+'10:AE:60:35:74:D4': 'Amelias Kindle',
+'70:56:81:dd:c2:09': 'Apple TV WLAN',
+'30:63:6b:2e:65:b6': 'Sams Apple Watch',
 '00:1b:63:00:ff:84': 'Black Macbook',
 '00:1d:c9:d4:6e:39': 'FitBit Aria',
 'f0:a2:25:c5:9d:b2': 'Gen 1 Kindle',
@@ -43,6 +43,12 @@
 'A8:82:00:64:1D:0F': 'SharpTVETH',
 'C8:3A:6B:34:C1:2F': 'RokuExpress',
 'A4:34:D9:CD:0B:54': 'SAS Laptop L10D778 Wlan',
-'BC:60:A7:D4:B6:AA': 'PS4Eth'
+'BC:60:A7:D4:B6:AA': 'PS4Eth',
+'84:7b:eb:04:91:cc': 'SAS Laptop L10D778 Eth?',
+'5c:8d:4e:d9:7c:f8': 'UNK 5c:8d:4e:d9:7c:f8',
+'70:56:81:dd:c2:0a': 'UNK 70:56:81:dd:c2:0a',
+'f0:a2:25:f0:e4:60': 'UNK f0:a2:25:f0:e4:60',
+'c8:d5:fe:00:fe:fe': 'Dopo Tablet',
+'e4:e4:ab:bf:39:df': 'UNK e4:e4:ab:bf:39:df'
 
 };
