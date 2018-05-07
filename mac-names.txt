@@ -7,8 +7,10 @@
  var MAC_NAMES = {
 '10:AE:60:35:74:D4': 'Amelias Kindle',
 '70:56:81:dd:c2:09': 'Apple TV WLAN',
+'70:56:81:dd:c2:0a': 'Apple TV ETH',
 '30:63:6b:2e:65:b6': 'Sams Apple Watch',
 '00:1b:63:00:ff:84': 'Black Macbook',
+'00:1e:52:c6:39:47': 'White MacBook',
 '00:1d:c9:d4:6e:39': 'FitBit Aria',
 'f0:a2:25:c5:9d:b2': 'Gen 1 Kindle',
 '34:64:a9:60:72:1d': 'HP - SAS Eth',
@@ -30,14 +32,12 @@
 '34:02:86:19:91:5a': 'SAS Laptop L7A517 Wlan',
 '88:cb:87:8c:75:01': 'Sophia iPad',
 '00:1f:e1:3e:09:8b': 'Vonage',
-'00:1e:52:c6:39:47': 'White MacBook',
 '10:1c:0c:21:dd:89': 'Chancy iPad',
 'fc:c2:de:91:ce:fe': 'Chancy phone',
 '00:0d:4b:bf:73:e1': 'Roku’,
 '6c:0b:84:bc:d1:85': 'Nordictrac',
 'b8:27:eb:f5:59:af': 'Jordan',
 'b8:27:eb:27:05:59': 'Mitch',
-'b8:27:eb:cf:4e:b8': 'Chris',
 'b8:27:eb:01:ed:d4': 'Lazlo',
 '8c:9f:3b:cc:a4:64': 'SharpTV',
 'A8:82:00:64:1D:0F': 'SharpTVETH',
@@ -45,10 +45,12 @@
 'A4:34:D9:CD:0B:54': 'SAS Laptop L10D778 Wlan',
 'BC:60:A7:D4:B6:AA': 'PS4Eth',
 '84:7b:eb:04:91:cc': 'SAS Laptop L10D778 Eth?',
-'5c:8d:4e:d9:7c:f8': 'UNK 5c:8d:4e:d9:7c:f8',
-'70:56:81:dd:c2:0a': 'UNK 70:56:81:dd:c2:0a',
-'f0:a2:25:f0:e4:60': 'UNK f0:a2:25:f0:e4:60',
+'5c:8d:4e:d9:7c:f8': 'Apple1 5c:8d:4e:d9:7c:f8',
+'f0:a2:25:f0:e4:60': 'Apple2 f0:a2:25:f0:e4:60',
+'e4:e4:ab:bf:39:df': 'UNK e4:e4:ab:bf:39:df',
 'c8:d5:fe:00:fe:fe': 'Dopo Tablet',
-'e4:e4:ab:bf:39:df': 'UNK e4:e4:ab:bf:39:df'
-
+'00:56:cd:07:db:05': 'Trish Aaron',
+'9c:f4:8e:92:9f:34': 'Devrin Kuipers',
+'00:0f:60:08:57:4d': 'Pi-aware WLAN',
+'b8:27:eb:cf:4e:b8': 'Pi-aware ETH'
 };
